@@ -1,0 +1,11 @@
+{
+    "configuration": {
+        "title": "配置",
+        "refresh": "刷新",
+        "filter": "过滤 (按前缀)",
+        "table": {
+            "prefix": "前缀",
+            "properties": "属性"
+        }
+    }
+}

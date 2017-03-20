@@ -1,0 +1,28 @@
+{
+    "gatewayApp": {
+        "department" : {
+            "home": {
+                "title": "Departments",
+                "createLabel": "Create a new Department",
+                "createOrEditLabel": "Create or edit a Department",
+                "search": "Search for Department"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Department {{ id }}?"
+            },
+            "detail": {
+                "title": "Department"
+            },
+            "departmentName": "Department Name",
+            "location": "Location",
+            "employee": "Employee"
+        }
+    },
+    "microservice1App": {
+        "department" : {
+            "created": "A new Department is created with identifier {{ param }}",
+            "updated": "A Department is updated with identifier {{ param }}",
+            "deleted": "A Department is deleted with identifier {{ param }}"
+        }
+    }
+}
